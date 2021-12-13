@@ -1,0 +1,28 @@
+
+# Anasayfadan login sayafasına gidilir
+* "btnSignUp" elementi üzerinde bekle ve tıkla
+* "btnLogin" elementinin sayfada mevcut olması kontrol edilir
+* "btnLogin" elementine js ile tıkla
+
+
+# Anasayfada url kontrolü yap
+* "https://www.hepsiburada.com/" sayfa urli dogru mu kontrol et
+
+
+# Anasayfada <word> anahtar kelimesini arat
+* "inputHomePageSearch" elementine <word> ini yolla
+* "btnHomePageSearch" elementinin sayfada mevcut olması kontrol edilir
+* "btnHomePageSearch" elementine js ile tıkla
+
+
+# Ürün arama sayfasından rastgele ürün sepete ekle
+* "10" saniye bekle
+* "//div[@data-test-id='product-card-container']" elementi üzerinde hover bekle
+* "txtSepeteEkle" elementinin sayfada mevcut olması kontrol edilir
+* "txtSepeteEkle" elementine js ile tıkla
+
+# Sepetim sayfasına git
+* "btnSepetim" elementinin sayfada mevcut olması kontrol edilir
+* "btnSepetim" elementine js ile tıkla
+* "https://checkout.hepsiburada.com/sepetim" sayfa urli dogru mu kontrol et
+

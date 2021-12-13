@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="/Users/testinium/Desktop/webautomation/hepsiburadawebautomation/hepsiburada/Specs/hepsiburada.spec" time="63.553" timestamp="2021-12-13T22:37:53" name="Hepsiburada Anında Ödeme Bilgilerinin Kontrol Edilmesi" errors="0" hostname="testiniums-Air.home">
+		<properties></properties>
+		<testcase classname="Hepsiburada Anında Ödeme Bilgilerinin Kontrol Edilmesi" name="Hepsiburada Anında Ödeme Sayfsında Kuveyt Türk Bilgilerinin Kontrol Edilmesi" time="63.551"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>

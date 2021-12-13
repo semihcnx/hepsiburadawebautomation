@@ -1,0 +1,287 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 1901milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1901"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 55127"}
+{"logLevel":"info","message":"Listening on port:55127"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.scrollToElementByIndex' and 'com.hepsiburada.step.StepImplementation.scrollToElementByIndex'"}
+{"logLevel":"debug","message":"Found {} element listesinin {} sıradaki elemanına scroll yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.focusAndClickElement' and 'com.hepsiburada.step.StepImplementation.focusAndClickElement'"}
+{"logLevel":"debug","message":"Found {} elementi üzerinde bekle ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.checkElementAttribute' and 'com.hepsiburada.step.StepImplementation.checkElementAttribute'"}
+{"logLevel":"debug","message":"Found {} elementinin {} niteliği {} değerine eşit mi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.scrollToElementByIndexClick' and 'com.hepsiburada.step.StepImplementation.scrollToElementByIndexClick'"}
+{"logLevel":"debug","message":"Found {} element listesinin {} sıradaki elemanına scroll yap ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.controlIsElementPresent' and 'com.hepsiburada.step.StepImplementation.controlIsElementPresent'"}
+{"logLevel":"debug","message":"Found {} elementinin sayfada mevcut olması kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.clickElementByIndex' and 'com.hepsiburada.step.StepImplementation.clickElementByIndex'"}
+{"logLevel":"debug","message":"Found {} element listesinin {} sıradaki elemanına tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.doesUrlContain' and 'com.hepsiburada.step.StepImplementation.doesUrlContain'"}
+{"logLevel":"debug","message":"Found Şu anki url {} içeriyor mu in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.waitBySeconds' and 'com.hepsiburada.step.StepImplementation.waitBySeconds'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.clickElement' and 'com.hepsiburada.step.StepImplementation.clickElement'"}
+{"logLevel":"debug","message":"Found {} elementine tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.getElementTextContain' and 'com.hepsiburada.step.StepImplementation.getElementTextContain'"}
+{"logLevel":"debug","message":"Found {} elementinin text değeri {} değerini içeriyor mu in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.getElementTextContain' and 'com.hepsiburada.step.StepImplementation.getElementTextContain'"}
+{"logLevel":"debug","message":"Found get text {} element and control contains {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.scrollTo' and 'com.hepsiburada.step.StepImplementation.scrollTo'"}
+{"logLevel":"debug","message":"Found Sayfada {} ve {} koordinatlarına scroll yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.checkElementNotEquals' and 'com.hepsiburada.step.StepImplementation.checkElementNotEquals'"}
+{"logLevel":"debug","message":"Found {} elementinin text değeri {} değerinden farklı mı in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.focusandSendKeys' and 'com.hepsiburada.step.StepImplementation.focusandSendKeys'"}
+{"logLevel":"debug","message":"Found {} elementine odaklan {} ini yolla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.currentUrl' and 'com.hepsiburada.step.StepImplementation.currentUrl'"}
+{"logLevel":"debug","message":"Found {} sayfa urli dogru mu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.getTextChanging' and 'com.hepsiburada.step.StepImplementation.getTextChanging'"}
+{"logLevel":"debug","message":"Found {} text degeri {} degerine degismis mi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.chooseBank' and 'com.hepsiburada.step.StepImplementation.chooseBank'"}
+{"logLevel":"debug","message":"Found Anında Ödeme seçeneklerinden {} bankasını sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.focusElement' and 'com.hepsiburada.step.StepImplementation.focusElement'"}
+{"logLevel":"debug","message":"Found {} elementi üzerinde bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.sendKeysElement' and 'com.hepsiburada.step.StepImplementation.sendKeysElement'"}
+{"logLevel":"debug","message":"Found {} elementine {} ini yolla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.clearElement' and 'com.hepsiburada.step.StepImplementation.clearElement'"}
+{"logLevel":"debug","message":"Found {} elementinin değerini temizle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.getElementText' and 'com.hepsiburada.step.StepImplementation.getElementText'"}
+{"logLevel":"debug","message":"Found {} elementinin text değeri {} değerine eşit mi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.getElementText' and 'com.hepsiburada.step.StepImplementation.getElementText'"}
+{"logLevel":"debug","message":"Found get text {} element and control {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.getAfterPriceofElement' and 'com.hepsiburada.step.StepImplementation.getAfterPriceofElement'"}
+{"logLevel":"debug","message":"Found {} elementi ile fiyatini karsilastir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.clickByElementWithJS' and 'com.hepsiburada.step.StepImplementation.clickByElementWithJS'"}
+{"logLevel":"debug","message":"Found {} elementine js ile tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.controlBankName' and 'com.hepsiburada.step.StepImplementation.controlBankName'"}
+{"logLevel":"debug","message":"Found Sipariş özeti sayfasındaki ödeme bilgilerinin kontrol edilmesi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.doesUrlEqual' and 'com.hepsiburada.step.StepImplementation.doesUrlEqual'"}
+{"logLevel":"debug","message":"Found Şu anki url {} ile aynı mı in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.getTextValue' and 'com.hepsiburada.step.StepImplementation.getTextValue'"}
+{"logLevel":"debug","message":"Found {} elementinin text değerini gör in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.hoverWaitElement' and 'com.hepsiburada.step.StepImplementation.hoverWaitElement'"}
+{"logLevel":"debug","message":"Found {} elementi üzerinde hover bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.hepsiburada.step.StepImplementation.clearToElement' and 'com.hepsiburada.step.StepImplementation.clearToElement'"}
+{"logLevel":"debug","message":"Found {} elementinin text alanını temizle in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\t{} elementi üzerinde bekle : public void focusElement(String key)"}
+{"logLevel":"debug","message":"\tSipariş özeti sayfasındaki ödeme bilgilerinin kontrol edilmesi : public void controlBankName()"}
+{"logLevel":"debug","message":"\t{} elementine odaklan {} ini yolla : public void focusandSendKeys(String key, String text)"}
+{"logLevel":"debug","message":"\t{} elementinin {} niteliği {} değerine eşit mi : public void checkElementAttribute(String key, String attribute, String expectedValue)"}
+{"logLevel":"debug","message":"\t{} element listesinin {} sıradaki elemanına scroll yap : public void scrollToElementByIndex(String key, int index)"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitBySeconds(long seconds)"}
+{"logLevel":"debug","message":"\t{} elementine tıkla : public void clickElement(String key)"}
+{"logLevel":"debug","message":"\t{} sayfa urli dogru mu kontrol et : public void currentUrl(String aspectUrl)"}
+{"logLevel":"debug","message":"\t{} elementi ile fiyatini karsilastir : public void getAfterPriceofElement(String key)"}
+{"logLevel":"debug","message":"\t{} element listesinin {} sıradaki elemanına scroll yap ve tıkla : public void scrollToElementByIndexClick(String key, int index)"}
+{"logLevel":"debug","message":"\t{} elementine js ile tıkla : public void clickByElementWithJS(String key)"}
+{"logLevel":"debug","message":"\tget text {} element and control contains {} : public void getElementTextContain(String key, String expectedText)"}
+{"logLevel":"debug","message":"\tget text {} element and control {} : public void getElementText(String key, String expectedText)"}
+{"logLevel":"debug","message":"\t{} elementi üzerinde hover bekle : public void hoverWaitElement(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin text değerini gör : public void getTextValue(String key)"}
+{"logLevel":"debug","message":"\t{} elementi üzerinde bekle ve tıkla : public void focusAndClickElement(String key)"}
+{"logLevel":"debug","message":"\tunchecked : public List<WebElement> findElements(String byValue, String selectorType)"}
+{"logLevel":"debug","message":"\t{} element listesinin {} sıradaki elemanına tıkla : public void clickElementByIndex(String key, int index)"}
+{"logLevel":"debug","message":"\tŞu anki url {} ile aynı mı : public void doesUrlEqual(String url)"}
+{"logLevel":"debug","message":"\t{} elementinin sayfada mevcut olması kontrol edilir : public void controlIsElementPresent(String key)"}
+{"logLevel":"debug","message":"\tŞu anki url {} içeriyor mu : public void doesUrlContain(String url)"}
+{"logLevel":"debug","message":"\t{} elementinin değerini temizle : public void clearElement(String key)"}
+{"logLevel":"debug","message":"\t{} elementinin text alanını temizle : public void clearToElement(String key)"}
+{"logLevel":"debug","message":"\t{} text degeri {} degerine degismis mi : public void getTextChanging(String text1, String text2)"}
+{"logLevel":"debug","message":"\t{} elementine {} ini yolla : public void sendKeysElement(String key, String text)"}
+{"logLevel":"debug","message":"\tAnında Ödeme seçeneklerinden {} bankasını sec : public void chooseBank(String bankName)"}
+{"logLevel":"debug","message":"\t{} elementinin text değeri {} değerinden farklı mı : public void checkElementNotEquals(String key, String expectedText)"}
+{"logLevel":"debug","message":"\t{} elementinin text değeri {} değerine eşit mi : public void getElementText(String key, String expectedText)"}
+{"logLevel":"debug","message":"\t{} elementinin text değeri {} değerini içeriyor mu : public void getElementTextContain(String key, String expectedText)"}
+{"logLevel":"debug","message":"\tSayfada {} ve {} koordinatlarına scroll yap : public void scrollTo(int x, int y)"}
+2021-12-12 04:49:06,014 +03:00 INFO  FindOS:13 getOperationSystemName - Mac OS X
+2021-12-12 04:49:06,082 +03:00 INFO  Driver:51 beforeSuite - *************************************************************************
+2021-12-12 04:49:06,082 +03:00 INFO  Driver:52 beforeSuite - ------------------------TEST PLAN-------------------------
+
+
+2021-12-12 04:49:06,161 +03:00 INFO  Driver:60 beforeSpec - =========================================================================
+2021-12-12 04:49:06,161 +03:00 INFO  Driver:61 beforeSpec - ------------------------SPEC-------------------------
+2021-12-12 04:49:06,162 +03:00 INFO  Driver:64 beforeSpec - SPEC FILE NAME: /Users/testinium/Desktop/webautomation/hepsiburadawebautomation/hepsiburada/Specs/hepsiburada.spec
+2021-12-12 04:49:06,162 +03:00 INFO  Driver:65 beforeSpec - SPEC NAME: Hepsiburada Anında Ödeme Bilgilerinin Kontrol Edilmesi
+2021-12-12 04:49:06,162 +03:00 INFO  Driver:66 beforeSpec - SPEC TAGS: []
+
+
+2021-12-12 04:49:06,206 +03:00 INFO  Driver:73 beforeScenario - _________________________________________________________________________
+2021-12-12 04:49:06,206 +03:00 INFO  Driver:74 beforeScenario - ------------------------SCENARIO-------------------------
+2021-12-12 04:49:06,206 +03:00 INFO  Driver:76 beforeScenario - SCENARIO NAME: Hepsiburada Anında Ödeme Sayfsında Albaraka Türk Bilgilerinin Kontrol Edilmesi
+2021-12-12 04:49:06,206 +03:00 INFO  Driver:77 beforeScenario - SCENARIO TAG: []
+
+
+2021-12-12 04:49:06,207 +03:00 INFO  FindOS:26 getOperationSystemNameExpanded - Mac OS X
+MAC
+/Users/testinium/Desktop/webautomation/hepsiburadawebautomation/web_driver/chrome/chromedriver
+Dec 12, 2021 4:49:06 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 95.0.4638.69 (6a1600ed572fedecd573b6c2b90a22fe6392a410-refs/branch-heads/4638@{#984}) on port 38434
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1639273751.790][WARNING]: This version of ChromeDriver has not been tested with Chrome version 96.
+Dec 12, 2021 4:49:12 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+2021-12-12 04:49:12,956 +03:00 INFO  LocalBrowserExec:83 LocalExec - Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: /var/folders/mp/_ym0bzlj001...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55142}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 96.0.4664.93, webStorageEnabled: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+2021-12-12 04:49:12,960 +03:00 INFO  Driver:203 createDriver - Driver ayağa kaldırıldı.
+2021-12-12 04:49:26,092 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnSignUp" elementi üzerinde bekle ve tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementi üzerinde bekle ve tıkla' using 'class com.hepsiburada.step.StepImplementation.focusAndClickElement"}
+2021-12-12 04:49:26,158 +03:00 INFO  Methods:77 getBy - Element btnSignUp değerinde tutuluyor
+2021-12-12 04:49:26,161 +03:00 INFO  StoreHelper:68 getFileList - json uzantılı dosya sayısı: 4
+2021-12-12 04:49:27,546 +03:00 INFO  Methods:180 isElementVisible - btnSignUp elementi görünür durumdadır.
+2021-12-12 04:49:28,917 +03:00 INFO  Methods:110 clickElement - Elemente tıklandı.
+2021-12-12 04:49:28,935 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:28,944 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnLogin" elementine js ile tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine js ile tıkla' using 'class com.hepsiburada.step.StepImplementation.clickByElementWithJS"}
+2021-12-12 04:49:31,333 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:31,339 +03:00 INFO  Driver:85 beforeStep - ═════════  Şu anki url "https://giris.hepsiburada.com/" içeriyor mu  ═════════
+{"logLevel":"debug","message":"Executing 'Şu anki url {} içeriyor mu' using 'class com.hepsiburada.step.StepImplementation.doesUrlContain"}
+2021-12-12 04:49:31,348 +03:00 INFO  Methods:480 doesUrl - Beklenen url: https://giris.hepsiburada.com/
+2021-12-12 04:49:32,985 +03:00 INFO  Methods:493 doesUrl - Alınan url: https://giris.hepsiburada.com/?ReturnUrl=https%3A%2F%2Foauth.hepsiburada.com%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3DSPA%26redirect_uri%3Dhttps%253A%252F%252Fwww.hepsiburada.com%252Fuyelik%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2520profile%26state%3Dae3efa0487d843469a9ee3d68f9ebacf%26code_challenge%3Dv4fN4L2pqlvzMmoMdP3e4HASglcu47TzjOV4pdOVHlU%26code_challenge_method%3DS256%26response_mode%3Dquery%26ActivePage%3DPURE_LOGIN%26oidcReturnUrl%3Dhttps%253A%252F%252Fwww.hepsiburada.com%252F
+2021-12-12 04:49:33,002 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:33,008 +03:00 INFO  Driver:85 beforeStep - ═════════  "inputUserName" elementine "cv.semihcan@gmail.com" ini yolla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine {} ini yolla' using 'class com.hepsiburada.step.StepImplementation.sendKeysElement"}
+2021-12-12 04:49:34,902 +03:00 INFO  Methods:128 sendKeys - Elemente cv.semihcan@gmail.com texti yazıldı.
+2021-12-12 04:49:34,907 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:34,912 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnLoginPageLogin" elementine js ile tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine js ile tıkla' using 'class com.hepsiburada.step.StepImplementation.clickByElementWithJS"}
+2021-12-12 04:49:34,996 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:35,004 +03:00 INFO  Driver:85 beforeStep - ═════════  "inputPassword" elementine "Kyk17231650" ini yolla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine {} ini yolla' using 'class com.hepsiburada.step.StepImplementation.sendKeysElement"}
+2021-12-12 04:49:35,771 +03:00 INFO  Methods:128 sendKeys - Elemente Kyk17231650 texti yazıldı.
+2021-12-12 04:49:35,783 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:35,786 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnLoginPageEmail" elementine js ile tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine js ile tıkla' using 'class com.hepsiburada.step.StepImplementation.clickByElementWithJS"}
+2021-12-12 04:49:35,858 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:35,874 +03:00 INFO  Driver:85 beforeStep - ═════════  "inputHomePageSearch" elementine "Kitap" ini yolla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine {} ini yolla' using 'class com.hepsiburada.step.StepImplementation.sendKeysElement"}
+2021-12-12 04:49:43,086 +03:00 INFO  Methods:128 sendKeys - Elemente Kitap texti yazıldı.
+2021-12-12 04:49:43,091 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:43,107 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnHomePageSearch" elementine js ile tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine js ile tıkla' using 'class com.hepsiburada.step.StepImplementation.clickByElementWithJS"}
+2021-12-12 04:49:43,524 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:43,529 +03:00 INFO  Driver:85 beforeStep - ═════════  "10" saniye bekle  ═════════
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.hepsiburada.step.StepImplementation.waitBySeconds"}
+2021-12-12 04:49:43,536 +03:00 INFO  Methods:171 waitBySeconds - 10 saniye bekleniyor...
+2021-12-12 04:49:53,549 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:53,565 +03:00 INFO  Driver:85 beforeStep - ═════════  "//div[@data-test-id='product-card-container']" elementi üzerinde hover bekle  ═════════
+{"logLevel":"debug","message":"Executing '{} elementi üzerinde hover bekle' using 'class com.hepsiburada.step.StepImplementation.hoverWaitElement"}
+2021-12-12 04:49:53,576 +03:00 INFO  Methods:253 findElement - Element By.xpath: //div[@data-test-id='product-card-container'] by değerine sahip
+2021-12-12 04:49:54,082 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:54,105 +03:00 INFO  Driver:85 beforeStep - ═════════  "txtSepeteEkle" elementine js ile tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine js ile tıkla' using 'class com.hepsiburada.step.StepImplementation.clickByElementWithJS"}
+2021-12-12 04:49:54,529 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:54,545 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnSepetim" elementine js ile tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine js ile tıkla' using 'class com.hepsiburada.step.StepImplementation.clickByElementWithJS"}
+2021-12-12 04:49:55,529 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:55,542 +03:00 INFO  Driver:85 beforeStep - ═════════  "https://checkout.hepsiburada.com/sepetim" sayfa urli dogru mu kontrol et  ═════════
+{"logLevel":"debug","message":"Executing '{} sayfa urli dogru mu kontrol et' using 'class com.hepsiburada.step.StepImplementation.currentUrl"}
+2021-12-12 04:49:55,601 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:55,605 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnContinueStep" elementine js ile tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine js ile tıkla' using 'class com.hepsiburada.step.StepImplementation.clickByElementWithJS"}
+2021-12-12 04:49:57,707 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:57,720 +03:00 INFO  Driver:85 beforeStep - ═════════  "https://checkout.hepsiburada.com/teslimat" sayfa urli dogru mu kontrol et  ═════════
+{"logLevel":"debug","message":"Executing '{} sayfa urli dogru mu kontrol et' using 'class com.hepsiburada.step.StepImplementation.currentUrl"}
+2021-12-12 04:49:58,081 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:58,097 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnContinueStep" elementine js ile tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine js ile tıkla' using 'class com.hepsiburada.step.StepImplementation.clickByElementWithJS"}
+2021-12-12 04:49:58,851 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:49:58,856 +03:00 INFO  Driver:85 beforeStep - ═════════  "5" saniye bekle  ═════════
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.hepsiburada.step.StepImplementation.waitBySeconds"}
+2021-12-12 04:49:58,858 +03:00 INFO  Methods:171 waitBySeconds - 5 saniye bekleniyor...
+2021-12-12 04:50:03,875 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:50:03,888 +03:00 INFO  Driver:85 beforeStep - ═════════  "https://checkout.hepsiburada.com/odeme" sayfa urli dogru mu kontrol et  ═════════
+{"logLevel":"debug","message":"Executing '{} sayfa urli dogru mu kontrol et' using 'class com.hepsiburada.step.StepImplementation.currentUrl"}
+2021-12-12 04:50:03,906 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:50:03,919 +03:00 INFO  Driver:85 beforeStep - ═════════  "divAnindaHavale" elementine js ile tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine js ile tıkla' using 'class com.hepsiburada.step.StepImplementation.clickByElementWithJS"}
+2021-12-12 04:50:04,107 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:50:04,114 +03:00 INFO  Driver:85 beforeStep - ═════════  Anında Ödeme seçeneklerinden "AlBaraka Türk" bankasını sec  ═════════
+{"logLevel":"debug","message":"Executing 'Anında Ödeme seçeneklerinden {} bankasını sec' using 'class com.hepsiburada.step.StepImplementation.chooseBank"}
+2021-12-12 04:50:04,330 +03:00 INFO  StepImplementation:95 chooseBank - Ödeme Sayfasındaki seçilen banka bilgisi:AlBaraka Türk
+2021-12-12 04:50:04,340 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:50:04,344 +03:00 INFO  Driver:85 beforeStep - ═════════  "btnContinueStep" elementine js ile tıkla  ═════════
+{"logLevel":"debug","message":"Executing '{} elementine js ile tıkla' using 'class com.hepsiburada.step.StepImplementation.clickByElementWithJS"}
+2021-12-12 04:50:04,419 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:50:04,424 +03:00 INFO  Driver:85 beforeStep - ═════════  "5" saniye bekle  ═════════
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.hepsiburada.step.StepImplementation.waitBySeconds"}
+2021-12-12 04:50:04,426 +03:00 INFO  Methods:171 waitBySeconds - 5 saniye bekleniyor...
+2021-12-12 04:50:09,439 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:50:09,446 +03:00 INFO  Driver:85 beforeStep - ═════════  "https://checkout.hepsiburada.com/siparis-ozeti" sayfa urli dogru mu kontrol et  ═════════
+{"logLevel":"debug","message":"Executing '{} sayfa urli dogru mu kontrol et' using 'class com.hepsiburada.step.StepImplementation.currentUrl"}
+2021-12-12 04:50:09,485 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:50:09,493 +03:00 INFO  Driver:85 beforeStep - ═════════  Sipariş özeti sayfasındaki ödeme bilgilerinin kontrol edilmesi  ═════════
+{"logLevel":"debug","message":"Executing 'Sipariş özeti sayfasındaki ödeme bilgilerinin kontrol edilmesi' using 'class com.hepsiburada.step.StepImplementation.controlBankName"}
+2021-12-12 04:50:09,540 +03:00 INFO  StepImplementation:103 controlBankName - Siparis özeti sayfasındaki bank bilgisi:AlBaraka Türk
+2021-12-12 04:50:09,540 +03:00 INFO  StepImplementation:104 controlBankName - Ödeme sayfasındaki bank bilgisi:AlBaraka Türk
+2021-12-12 04:50:09,542 +03:00 INFO  Driver:98 afterStep - ══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+2021-12-12 04:50:09,558 +03:00 INFO  Driver:214 quitDriver - Driver kapatıldı.
+2021-12-12 04:50:09,558 +03:00 INFO  Driver:111 afterScenario - TEST BAŞARILI
+2021-12-12 04:50:09,558 +03:00 INFO  Driver:114 afterScenario - _________________________________________________________________________
+
+
+2021-12-12 04:50:09,572 +03:00 INFO  Driver:121 afterSpec - =========================================================================
+
+
+
+2021-12-12 04:50:09,577 +03:00 INFO  Driver:129 afterSuite - *************************************************************************
+
+
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

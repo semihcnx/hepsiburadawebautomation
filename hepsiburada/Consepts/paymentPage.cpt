@@ -1,0 +1,25 @@
+
+
+# Alışverisimi tamamla butonuna basarak teslimat sayfasına git
+* "btnContinueStep" elementinin sayfada mevcut olması kontrol edilir
+* "btnContinueStep" elementine js ile tıkla
+* "https://checkout.hepsiburada.com/teslimat" sayfa urli dogru mu kontrol et
+
+# Devam butonuna tıklayarak ödeme sayfasına git
+* "btnContinueStep" elementinin sayfada mevcut olması kontrol edilir
+* "btnContinueStep" elementine js ile tıkla
+* "5" saniye bekle
+* "https://checkout.hepsiburada.com/odeme" sayfa urli dogru mu kontrol et
+
+# Ödeme yöntemlerinden anında ödemeyi seç
+* "divAnindaHavale" elementinin sayfada mevcut olması kontrol edilir
+* "divAnindaHavale" elementine js ile tıkla
+
+//# Anında Ödeme seçeneklerinden <bankName> bankasını sec
+
+
+# Devam butonuna tıklayarak özet sayfasına git
+* "btnContinueStep" elementinin sayfada mevcut olması kontrol edilir
+* "btnContinueStep" elementine js ile tıkla
+* "5" saniye bekle
+* "https://checkout.hepsiburada.com/siparis-ozeti" sayfa urli dogru mu kontrol et

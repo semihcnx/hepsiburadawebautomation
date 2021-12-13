@@ -1,0 +1,24 @@
+[
+  {
+    "key": "inputUserName",
+    "value": "txtUserName",
+    "type": "id"
+  },
+  {
+    "key": "btnLoginPageLogin",
+    "value": "btnLogin",
+    "type": "id"
+  },
+  {
+    "key": "inputPassword",
+    "value": "txtPassword",
+    "type": "id"
+  },
+  {
+    "key": "btnLoginPageEmail",
+    "value": "btnEmailSelect",
+    "type": "id"
+  }
+
+
+]

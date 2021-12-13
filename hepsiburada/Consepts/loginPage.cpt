@@ -1,0 +1,14 @@
+
+# Siteye <email> ve <sifre> kullanıcı bilgileri ile login olunur
+//* "https://giris.hepsiburada.com/?ReturnUrl=https%3A%2F%2Foauth.hepsiburada.com%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3DSPA%26redirect_uri%3Dhttps%253A%252F%252Fwww.hepsiburada.com%252Fuyelik%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2520profile%26state%3Db8681831272140e884c3b78122bb9731%26code_challenge%3DW-xCA5VK-47K6VId-owLs6Yn_CdRlbIGbI4BaCTgRXU%26code_challenge_method%3DS256%26response_mode%3Dquery%26ActivePage%3DPURE_LOGIN%26oidcReturnUrl%3Dhttps%253A%252F%252Fwww.hepsiburada.com%252F" sayfa urli dogru mu kontrol et
+* Şu anki url "https://giris.hepsiburada.com/" içeriyor mu
+* "inputUserName" elementinin sayfada mevcut olması kontrol edilir
+* "inputUserName" elementine <email> ini yolla
+* "btnLoginPageLogin" elementine js ile tıkla
+* "inputPassword" elementinin sayfada mevcut olması kontrol edilir
+* "inputPassword" elementine <sifre> ini yolla
+* "btnLoginPageEmail" elementinin sayfada mevcut olması kontrol edilir
+* "btnLoginPageEmail" elementine js ile tıkla
+
+
+

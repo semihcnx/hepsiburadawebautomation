@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"Hepsiburada Anında Ödeme Bilgilerinin Kontrol Edilmesi":["hepsiburada/Specs/hepsiburada.html"]}};

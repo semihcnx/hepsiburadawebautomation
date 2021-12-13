@@ -1,0 +1,12 @@
+[
+  {
+    "key": "divProductCardContainer",
+    "value": "//div[@data-test-id='product-card-container']",
+    "type": "xpath"
+  },
+  {
+    "key": "btnSepetim",
+    "value": "span[id='shoppingCart']",
+    "type": "css"
+  }
+]

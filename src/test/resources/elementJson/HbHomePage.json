@@ -1,0 +1,35 @@
+[
+  {
+    "key": "btnSignUp",
+    "value": "myAccount",
+    "type": "id"
+  },
+  {
+    "key": "btnLogin",
+    "value": "login",
+    "type": "id"
+  },
+  {
+    "key": "inputHomePageSearch",
+    "value": "input[class='desktopOldAutosuggestTheme-input']",
+    "type": "css"
+  },
+  {
+    "key": "btnHomePageSearch",
+    "value": "div[class='SearchBoxOld-buttonContainer']",
+    "type": "css"
+  },
+  {
+    "key": "txtSepeteEkle",
+    "value": "//div[text()='Sepete ekle']",
+    "type": "xpath"
+  }
+
+
+
+
+
+
+
+
+]

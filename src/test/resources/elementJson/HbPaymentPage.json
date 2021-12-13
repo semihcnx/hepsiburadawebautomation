@@ -1,0 +1,45 @@
+[
+  {
+    "key": "btnContinueStep",
+    "value": "continue_step_btn",
+    "type": "id"
+  },
+  {
+    "key": "divAnindaHavale",
+    "value": "//div[@class='sardesPaymentPage-Combine-header_combine sardesPaymentPage-index-payment_header']//h3[text()=\"Anında Havale\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "chooseBankAkbank",
+    "value": "//p[text()='Akbank' and @class='sardesPaymentPage-MoneyTransfer-bank_name']",
+    "type": "xpath"
+  },
+  {
+    "key": "chooseBankIsBankasi",
+    "value": "//p[text()='İş Bankası' and @class='sardesPaymentPage-MoneyTransfer-bank_name']",
+    "type": "xpath"
+  },
+  {
+    "key": "chooseBankVakifbank",
+    "value": "//p[text()='Vakıfbank' and @class='sardesPaymentPage-MoneyTransfer-bank_name']",
+    "type": "xpath"
+  },
+  {
+    "key": "chooseBankKuveytTurk",
+    "value": "//p[text()='Kuveyt Türk' and @class='sardesPaymentPage-MoneyTransfer-bank_name']",
+    "type": "xpath"
+  },
+  {
+    "key": "chooseBankAlbarakaTurk",
+    "value": "//p[text()='AlBaraka Türk' and @class='sardesPaymentPage-MoneyTransfer-bank_name']",
+    "type": "xpath"
+  },
+  {
+    "key": "txtSiparisOzetiBankName",
+    "value": "(//div[@class='detail_20j8y']//span)[2]",
+    "type": "xpath"
+  }
+
+
+
+]
